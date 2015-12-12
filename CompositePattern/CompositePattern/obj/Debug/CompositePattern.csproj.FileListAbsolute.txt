@@ -1,0 +1,5 @@
+c:\users\yuandong\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+c:\users\yuandong\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+c:\users\yuandong\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+c:\users\yuandong\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+c:\users\yuandong\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb

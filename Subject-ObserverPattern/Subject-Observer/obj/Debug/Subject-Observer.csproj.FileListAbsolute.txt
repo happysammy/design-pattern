@@ -1,0 +1,5 @@
+c:\users\yuandong\documents\visual studio 2013\Projects\Subject-Observer\Subject-Observer\bin\Debug\Subject-Observer.exe.config
+c:\users\yuandong\documents\visual studio 2013\Projects\Subject-Observer\Subject-Observer\bin\Debug\Subject-Observer.exe
+c:\users\yuandong\documents\visual studio 2013\Projects\Subject-Observer\Subject-Observer\bin\Debug\Subject-Observer.pdb
+c:\users\yuandong\documents\visual studio 2013\Projects\Subject-Observer\Subject-Observer\obj\Debug\Subject-Observer.exe
+c:\users\yuandong\documents\visual studio 2013\Projects\Subject-Observer\Subject-Observer\obj\Debug\Subject-Observer.pdb

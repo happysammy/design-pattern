@@ -1,0 +1,6 @@
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb

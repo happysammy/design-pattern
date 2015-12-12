@@ -1,0 +1,6 @@
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\yuandong\Desktop\Design Pattern\Singleton\Singleton\obj\Debug\Singleton.pdb

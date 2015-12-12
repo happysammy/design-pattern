@@ -1,0 +1,8 @@
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\obj\Debug\Strategy.Properties.Resources.resources
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\obj\Debug\Strategy.csproj.GenerateResource.Cache
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\bin\Debug\Strategy.exe
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\bin\Debug\Strategy.pdb
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\obj\Debug\Strategy.exe
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\obj\Debug\Strategy.pdb
+C:\Users\yuandong\Desktop\Design Pattern\StrategyPattern\Strategy\obj\Debug\Strategy.Form1.resources

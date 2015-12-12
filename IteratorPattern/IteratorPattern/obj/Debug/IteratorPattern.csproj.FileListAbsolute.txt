@@ -1,0 +1,5 @@
+C:\Users\yuandong\Desktop\Design Pattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\yuandong\Desktop\Design Pattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\yuandong\Desktop\Design Pattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb

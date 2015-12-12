@@ -1,0 +1,6 @@
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csprojResolveAssemblyReference.cache
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\yuandong\Desktop\Design Pattern\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
