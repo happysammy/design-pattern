@@ -1,0 +1,6 @@
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\yuandong\Desktop\Demo\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
