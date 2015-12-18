@@ -1,0 +1,6 @@
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csprojResolveAssemblyReference.cache
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Users\yuandong\Desktop\Demo\MementoPattern\MementoPattern\obj\Debug\MementoPattern.pdb
