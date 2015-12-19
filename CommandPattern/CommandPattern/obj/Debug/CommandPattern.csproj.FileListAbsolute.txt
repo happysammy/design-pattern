@@ -1,0 +1,5 @@
+C:\Users\yuandong\Desktop\Demo\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\yuandong\Desktop\Demo\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\yuandong\Desktop\Demo\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\yuandong\Desktop\Demo\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\yuandong\Desktop\Demo\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
