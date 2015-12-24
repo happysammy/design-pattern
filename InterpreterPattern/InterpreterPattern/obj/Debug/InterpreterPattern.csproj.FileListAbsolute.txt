@@ -1,0 +1,5 @@
+C:\Users\yuandong\Desktop\Demo\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+C:\Users\yuandong\Desktop\Demo\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+C:\Users\yuandong\Desktop\Demo\InterpreterPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+C:\Users\yuandong\Desktop\Demo\InterpreterPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+C:\Users\yuandong\Desktop\Demo\InterpreterPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
